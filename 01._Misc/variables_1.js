@@ -14,19 +14,20 @@ const people =[];
 
 
 
-people.push("ostemad")
-people.push("Tisseost")
+people.push("ostemad");
 
-console.log(people)
+people.push("Tisseost");
+
+console.log(people);
 
 //Count skal ændres
 let count = 2;
 
 //skrive ud i terminalen
-console.log(5)
-console.log(5)
-console.log(5)
-console.log(5)
+console.log(5);
+console.log(5);
+console.log(5);
+console.log(5);
 
 
 //JSDataTyper
